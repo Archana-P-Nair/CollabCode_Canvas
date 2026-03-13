@@ -214,48 +214,17 @@ http://localhost:3000
 ## 🧪 Example Use Cases
 
 ### 👩‍🎓 Students
-
 Practice coding together and explain algorithms visually.
 
 ### 👨‍🏫 Teachers
-
 Teach programming with live diagrams and code execution.
 
 ### 🧑‍💻 Interviewers
-
 Conduct technical interviews remotely.
 
 ### 🌍 Remote Teams
-
 Collaborate on debugging and architecture discussions.
 
----
-
-## 💡 Future Improvements
-
-- More programming languages  
-- Session recording  
-- Advanced AI debugging  
-- Multi-file project support  
-- Role-based room permissions  
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! 🎉
-
-```bash
-git checkout -b feature/new-feature
-git commit -m "Add new feature"
-git push origin feature/new-feature
-```
-
-Open a Pull Request 🚀
-
----
-
 ## ⭐ Support
-
 If you like this project, consider giving it a ⭐ on GitHub!
 ```
