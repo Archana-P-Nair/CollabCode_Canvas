@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  A real-time collaborative workspace that combines a <b>code editor</b>, <b>whiteboard</b>, <b>video call</b>, <b>chat</b>, and <b>AI assistant</b> into one powerful platform.
+  A real-time collaborative workspace that combines a <b>code editor</b>, <b>whiteboard</b>, <b>HTML Visualizer</b>, <b>video call</b>, <b>chat</b>, and <b>AI assistant</b> into one powerful platform.
 </p>
 
 
@@ -79,7 +79,10 @@ Communicate with collaborators without leaving the workspace.
 Talk face-to-face during coding sessions.
 ### 🧑‍🤝‍🧑 Room-Based Collaboration: 
 Create rooms where teams can collaborate in real time.
-### 🔗 Shareable Links: Invite others instantly via room URLs.
+### 🔗 Shareable Links:
+Invite others instantly via room URLs.
+### 🌐 HTML Visualizer:
+Provide your HTML, CSS, and JavaScript code, and the platform will render and visualize it instantly in the browser, allowing you to preview and test your UI in real time.
 ---
 
 ## 🏗 Architecture
