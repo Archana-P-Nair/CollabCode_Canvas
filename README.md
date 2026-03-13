@@ -25,24 +25,15 @@ https://collabcode-canvas-h14w.onrender.com/
 
 
 ### 💻 Collaborative Code Editor
-
-![Code Editor](docs/editor.png)
-
 **Features:**
-
 - Real-time multi-user editing  
 - Syntax highlighting  
 - Multiple language support  
 - Run code directly in browser  
-
 ---
 
 ### 📝 Shared Whiteboard
-
-![Whiteboard](docs/whiteboard.png)
-
 Use the whiteboard to:
-
 - Draw diagrams  
 - Explain algorithms  
 - Sketch system architecture  
@@ -51,11 +42,7 @@ Use the whiteboard to:
 ---
 
 ### 💬 Real-Time Chat
-
-![Chat](docs/chat.png)
-
 Collaborators can:
-
 - Share messages  
 - Discuss solutions  
 - Send links and notes  
@@ -63,19 +50,12 @@ Collaborators can:
 ---
 
 ### 📹 Video Call Integration
-
-![Video Call](docs/video.png)
-
 Jump into a live video call with collaborators while coding.
 
 ---
 
 ### 🤖 AI Assistant
-
-![AI Assistant](docs/ai.png)
-
 Use AI to:
-
 - Explain code  
 - Suggest improvements  
 - Debug problems  
@@ -85,18 +65,24 @@ Use AI to:
 
 ## 🌟 Key Features
 
-### 💻 Real-Time Code Collaboration: Multiple users can edit code simultaneously in the same editor.
-### 📝 Interactive Whiteboard: Draw diagrams and explain ideas visually.
-### 📊 Flowchart Builder: Create logic diagrams and plan algorithms.
-### 🤖 AI Coding Assistant: Ask questions and get coding help instantly.
-### 💬 Built-in Chat: Communicate with collaborators without leaving the workspace.
-### 📹 Video Call Integration: Talk face-to-face during coding sessions.
-### 🧑‍🤝‍🧑 Room-Based Collaboration: Create rooms where teams can collaborate in real time.
+### 💻 Real-Time Code Collaboration: 
+Multiple users can edit code simultaneously in the same editor.
+### 📝 Interactive Whiteboard: 
+Draw diagrams and explain ideas visually.
+### 📊 Flowchart Builder: 
+Create logic diagrams and plan algorithms.
+### 🤖 AI Coding Assistant: 
+Ask questions and get coding help instantly.
+### 💬 Built-in Chat: 
+Communicate with collaborators without leaving the workspace.
+### 📹 Video Call Integration: 
+Talk face-to-face during coding sessions.
+### 🧑‍🤝‍🧑 Room-Based Collaboration: 
+Create rooms where teams can collaborate in real time.
 ### 🔗 Shareable Links: Invite others instantly via room URLs.
 ---
 
 ## 🏗 Architecture
-
 ```text
                  +---------------------+
                  |     Frontend        |
@@ -125,7 +111,6 @@ Use AI to:
 ## 🧰 Tech Stack
 
 ### Frontend
-
 - ⚛️ React / Next.js  
 - 🧩 TypeScript  
 - 🎨 Tailwind CSS  
@@ -133,7 +118,6 @@ Use AI to:
 - 🖌 Canvas API  
 
 ### Backend
-
 - 🟩 Node.js  
 - 🧾 TypeScript  
 - 🌐 REST APIs  
@@ -143,7 +127,6 @@ Use AI to:
 ---
 
 ## 📁 Project Structure
-
 ```text
 CollabCode_Canvas
 │
