@@ -9,54 +9,20 @@
   A real-time collaborative workspace that combines a <b>code editor</b>, <b>whiteboard</b>, <b>video call</b>, <b>chat</b>, and <b>AI assistant</b> into one powerful platform.
 </p>
 
----
+
 
 ## 🚀 Live Demo
 
 **🌐 Try the app:**  
 https://collabcode-canvas-h14w.onrender.com/
 
-**📂 GitHub Repository:**  
-https://github.com/Archana-P-Nair/CollabCode_Canvas
-
----
-
-## 🏆 Badges
-
-_Add these at the top for a professional open-source look._
-
-Example (customize as you like):
-
-![License](https://img.shields.io/github/license/Archana-P-Nair/CollabCode_Canvas)
-![Stars](https://img.shields.io/github/stars/Archana-P-Nair/CollabCode_Canvas?style=social)
-![Issues](https://img.shields.io/github/issues/Archana-P-Nair/CollabCode_Canvas)
-![Pull Requests](https://img.shields.io/github/issues-pr/Archana-P-Nair/CollabCode_Canvas)
-
 ---
 
 ## 🎥 Demo
 
-_(Replace with your GIF later)_
-
-![Demo](docs/demo.gif)
-
-**Example idea for demo GIF:**
-
-- Create a room  
-- Write code  
-- Run code  
-- Draw on whiteboard  
-- Chat + video call  
-
-**Tools to record GIF:**
-
-- ScreenToGif  
-- Kap  
-- LICEcap  
 
 ---
 
-## 📸 Feature Screenshots
 
 ### 💻 Collaborative Code Editor
 
@@ -119,38 +85,14 @@ Use AI to:
 
 ## 🌟 Key Features
 
-### 💻 Real-Time Code Collaboration
-
-Multiple users can edit code simultaneously in the same editor.
-
-### 📝 Interactive Whiteboard
-
-Draw diagrams and explain ideas visually.
-
-### 📊 Flowchart Builder
-
-Create logic diagrams and plan algorithms.
-
-### 🤖 AI Coding Assistant
-
-Ask questions and get coding help instantly.
-
-### 💬 Built-in Chat
-
-Communicate with collaborators without leaving the workspace.
-
-### 📹 Video Call Integration
-
-Talk face-to-face during coding sessions.
-
-### 🧑‍🤝‍🧑 Room-Based Collaboration
-
-Create rooms where teams can collaborate in real time.
-
-### 🔗 Shareable Links
-
-Invite others instantly via room URLs.
-
+### 💻 Real-Time Code Collaboration: Multiple users can edit code simultaneously in the same editor.
+### 📝 Interactive Whiteboard: Draw diagrams and explain ideas visually.
+### 📊 Flowchart Builder: Create logic diagrams and plan algorithms.
+### 🤖 AI Coding Assistant: Ask questions and get coding help instantly.
+### 💬 Built-in Chat: Communicate with collaborators without leaving the workspace.
+### 📹 Video Call Integration: Talk face-to-face during coding sessions.
+### 🧑‍🤝‍🧑 Room-Based Collaboration: Create rooms where teams can collaborate in real time.
+### 🔗 Shareable Links: Invite others instantly via room URLs.
 ---
 
 ## 🏗 Architecture
