@@ -82,8 +82,8 @@ Create rooms where teams can collaborate in real time.
 ### 🔗 Shareable Links:
 Invite others instantly via room URLs.
 ### 🌐 HTML Visualizer:
-Provide your HTML, CSS, and JavaScript code, and the platform will render and visualize it instantly in the browser, allowing you to preview and test your UI in real time.
----
+Provide your HTML, CSS, and JavaScript code, and the platform will instantly render and preview it in the browser.
+
 
 ## 🏗 Architecture
 ```text
